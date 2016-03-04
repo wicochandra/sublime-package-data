@@ -43,5 +43,6 @@ For Linux
 - [GitGutter](https://github.com/jisaacks/GitGutter)
 - [Laravel Blade Highlighter](https://github.com/Medalink/laravel-blade)
 - [PHP CS](https://github.com/benmatselby/sublime-phpcs)
+- [PHP Companion](https://github.com/erichard/SublimePHPCompanion)
 
 
