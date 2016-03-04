@@ -2,7 +2,7 @@
     // Plugin settings
 
     // Turn the debug output on/off
-    "show_debug": false,
+    "show_debug": true,
 
     // Which file types (file extensions), do you want the plugin to
     // execute for
@@ -129,7 +129,7 @@
 
     // It seems python/sublime cannot always find the php application
     // If empty, then use PATH version of php, else use the set value
-    "phpcs_php_path": "D:\\babun-1.2.0\\.babun\\cygwin\\bin\\php.exe",
+    "phpcs_php_path": "",
 
     // What is the regex for the linter? Has to provide a named match for 'message' and 'line'
     "phpcs_linter_regex": "(?P<message>.*) on line (?P<line>\\d+)",
@@ -139,7 +139,7 @@
     // PHP Mess Detector settings
 
     // Execute phpmd
-    "phpmd_run": true,
+    "phpmd_run": false,
 
     // Execute the phpmd on file save
     "phpmd_command_on_save": true,
