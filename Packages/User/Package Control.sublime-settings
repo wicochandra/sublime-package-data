@@ -9,6 +9,8 @@
 		"Emmet",
 		"Git",
 		"GitGutter",
-		"Laravel Blade Highlighter"
+		"Laravel Blade Highlighter",
+		"Package Control",
+		"Phpcs"
 	]
 }
