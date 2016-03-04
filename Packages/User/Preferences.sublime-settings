@@ -81,7 +81,9 @@
 		"*.class",
 		"*.psd",
 		"*.db",
-		"*.sublime-workspace"
+		"*.sublime-workspace",
+		"*.gz",
+		"*.tar"
 	],
 	"find_selected_text": true,
 	"fold_buttons": true,
